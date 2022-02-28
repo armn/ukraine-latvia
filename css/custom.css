@@ -64,14 +64,6 @@ span.textHighlight {
     padding: 0 .2rem;
 }
 
-.iconHero {
-    width: 180px;
-}
-@media (max-width: 991px) {
-    h1 {
-        font-size: 2.2rem !important;
-    }
-}
 .mainNavigation a.btn {
     width: 360px;
     max-width: 100%;
@@ -119,9 +111,35 @@ h2 span.textHighlight{
     padding: 4rem 0 3.6rem;
 }
 
-.sectionHero h1 {
-    font-size: 3rem;
-    font-weight: bold;
+@media (min-width: 992px) {
+    .sectionHero {
+        padding-top: 1rem;
+    }
+    .sectionHero .heroText h1 {
+        font-size: 5.4rem;
+        background: url(../img/icon_star.svg) no-repeat;
+        font-weight: bold;
+        padding: 4rem 0 0 5.8rem;
+    }
+    .sectionHero .heroText img {
+        width: 140px;
+    }
+    .sectionHero .heroText h4 {
+        padding-left: 5.8rem;
+    }
+}
+@media (max-width: 991px) {
+    .sectionHero {
+        padding-top: 2rem;
+    }
+    .sectionHero .heroText h1 {
+        font-weight: bold;
+        font-size: 2.8rem !important;
+    }
+    .sectionHero .heroText img {
+        width: 140px;
+    }
+
 }
 
 .iconLatvia {
