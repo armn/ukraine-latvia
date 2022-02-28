@@ -1,7 +1,7 @@
 body {
     color: #0057b7;
     font-size: .95rem;
-    font-family: Poppins, sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 a {
     color: #0057b7;
@@ -55,13 +55,13 @@ header .languageSwitch a.current {
 }
 
 small {
-    font-size: .7rem;
+    font-size: .65rem;
     line-height: .1rem;
 }
 
 span.textHighlight {
     background-color: #ffd700;
-    padding: 0 .4rem;
+    padding: 0 .2rem;
 }
 
 .iconHero {
@@ -79,7 +79,7 @@ span.textHighlight {
 
 h2 span.textHighlight{
     background-color: #ffd700;
-    padding: 0 .6rem;
+    padding: 0 .4rem;
 }
 
 .pageSectionBackground {
@@ -94,6 +94,22 @@ h2 span.textHighlight{
 }
 .pageSectionBackground a {
     color: white;
+}
+.pageSectionBackground .cardWhite {
+    color: #0057b7;
+    background-color: white;
+    padding-top: 2rem;
+    padding-bottom: 1.4rem;
+}
+
+.gpbTable td:first-child {
+    padding-right: 1.6rem;
+}
+.logoGpb {
+    display: inline-block;
+}
+.logoGpb img {
+    width: 120px;
 }
 
 .pageSectionLight {
