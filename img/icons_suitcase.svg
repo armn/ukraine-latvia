@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="38px" height="32px" viewBox="5 8 38 32" enable-background="new 5 8 38 32" xml:space="preserve">
+<path fill="#004C91" d="M27,8h-6c-1.105,0-2,0.895-2,2v3c0,0.552,0.448,1,1,1h1v-4h6v4h1c0.553,0,1-0.448,1-1v-3
+	C29,8.895,28.105,8,27,8"/>
+<path fill="#0057B7" d="M41,12H7c-1.105,0-2,0.895-2,2v24c0,1.105,0.895,2,2,2h34c1.105,0,2-0.895,2-2V14C43,12.895,42.105,12,41,12
+	"/>
+<path fill="#004C91" d="M9,11h3v1H9V11z M36,11h3v1h-3V11z"/>
+<path fill="#004C91" d="M13,12h2v28h-2V12z M33,12h2v28h-2V12z"/>
+<path fill="#FFD700" d="M23,16c-2.209,0-4,1.791-4,4s1.791,4,4,4s4-1.791,4-4S25.209,16,23,16z"/>
+<path fill="#FFD700" d="M40,28.484L27.445,35L25,30.518L37.555,24L40,28.484z"/>
+</svg>

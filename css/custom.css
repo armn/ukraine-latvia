@@ -1,0 +1,133 @@
+body {
+    color: #0057b7;
+    font-size: .95rem;
+    font-family: Poppins, sans-serif;
+}
+a {
+    color: #0057b7;
+}
+a.btn-primary {
+    background-color: #0057b7;
+    border-color: #0057b7;
+}
+a.btn-primary:hover {
+    background-color: #004c91;
+    border-color: #004c91;
+}
+a.btn-outline-primary {
+    color: #0057b7;
+    border-color: #0057b7;
+}
+a.btn-outline-primary:hover {
+    background-color: #004c91;
+    border-color: #004c91;
+}
+a.btn-outline-light:hover {
+    color: #0057b7;
+}
+
+ul.dashed {
+    list-style-type: none;
+}
+ul.dashed li:before {
+    content: "-";
+    position: absolute;
+    margin-left: -20px;
+}
+
+header {
+    text-align: right;
+}
+header a {
+    text-decoration: none;
+}
+header a:hover {
+    text-decoration: underline;
+}
+header .languageSwitch a:not(:last-child) {
+    border-right: 1px solid #cfcfcf;
+    display: inline-block;
+    padding-right: .5rem;
+    margin-right: .5rem;
+}
+header .languageSwitch a.current {
+    color: #cfcfcf;
+}
+
+small {
+    font-size: .7rem;
+    line-height: .1rem;
+}
+
+span.textHighlight {
+    background-color: #ffd700;
+    padding: 0 .4rem;
+}
+
+.iconHero {
+    width: 180px;
+}
+
+.mainNavigation a.btn {
+    width: 360px;
+}
+
+h2 span.textHighlight{
+    background-color: #ffd700;
+    padding: 0 .6rem;
+}
+
+.pageSectionBackground {
+    background-color: #0057b7;
+    color: white;
+}
+.pageSectionBackground span.textHighlight {
+    color: #0057b7;
+}
+.pageSectionBackground h2 {
+    color: #0057b7;
+}
+.pageSectionBackground a {
+    color: white;
+}
+
+.pageSectionLight {
+    background-color: #f7fbff;
+}
+
+.pageSection {
+    padding: 4rem 0 3.6rem;
+}
+
+.sectionHero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.iconLatvia {
+    width: 200px;
+}
+.offerHelpNavigation a.btn {
+    width: 370px;
+}
+
+.preparationList li::marker {
+    font-size: 1.2rem;
+}
+
+footer {
+    background-color: #dee9f6;
+    font-size: 0.7rem;
+    padding: 2.4rem 0 2rem;
+}
+
+@media (max-width: 991px) {
+    .mdToCenter {
+        text-align: center;
+    }
+}
+@media (max-width: 991px) {
+    .mdToLeft {
+        text-align: left !important;
+    }
+}
