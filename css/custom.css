@@ -98,8 +98,7 @@ h2 span.textHighlight{
 .pageSectionBackground .cardWhite {
     color: #0057b7;
     background-color: white;
-    padding-top: 2rem;
-    padding-bottom: 1.4rem;
+    padding: 2rem 1rem 1.4rem;
 }
 
 .gpbTable td:first-child {
