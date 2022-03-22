@@ -201,21 +201,21 @@ footer {
   font-family: "IBM Plex Sans";
   font-style: normal;
   font-weight: 400;
-  src: url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot?#iefix")
+    url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot?#iefix")
       format("embedded-opentype"),
     /* IE6-IE8 */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2")
       format("woff2"),
     /* Super Modern Browsers */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff")
       format("woff"),
     /* Modern Browsers */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.ttf")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.ttf")
       format("truetype"),
     /* Safari, Android, iOS */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.svg#IBMPlexSans")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-regular.svg#IBMPlexSans")
       format("svg"); /* Legacy iOS */
 }
 /* ibm-plex-sans-500 - latin-ext_latin_cyrillic-ext_cyrillic */
@@ -223,21 +223,21 @@ footer {
   font-family: "IBM Plex Sans";
   font-style: normal;
   font-weight: 500;
-  src: url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.eot?#iefix")
+    url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.eot?#iefix")
       format("embedded-opentype"),
     /* IE6-IE8 */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.woff2")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.woff2")
       format("woff2"),
     /* Super Modern Browsers */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.woff")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.woff")
       format("woff"),
     /* Modern Browsers */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.ttf")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.ttf")
       format("truetype"),
     /* Safari, Android, iOS */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.svg#IBMPlexSans")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-500.svg#IBMPlexSans")
       format("svg"); /* Legacy iOS */
 }
 /* ibm-plex-sans-600 - latin-ext_latin_cyrillic-ext_cyrillic */
@@ -245,21 +245,21 @@ footer {
   font-family: "IBM Plex Sans";
   font-style: normal;
   font-weight: 600;
-  src: url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.eot?#iefix")
+    url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.eot?#iefix")
       format("embedded-opentype"),
     /* IE6-IE8 */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.woff2")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.woff2")
       format("woff2"),
     /* Super Modern Browsers */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.woff")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.woff")
       format("woff"),
     /* Modern Browsers */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.ttf")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.ttf")
       format("truetype"),
     /* Safari, Android, iOS */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.svg#IBMPlexSans")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-600.svg#IBMPlexSans")
       format("svg"); /* Legacy iOS */
 }
 /* ibm-plex-sans-700 - latin-ext_latin_cyrillic-ext_cyrillic */
@@ -267,20 +267,20 @@ footer {
   font-family: "IBM Plex Sans";
   font-style: normal;
   font-weight: 700;
-  src: url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.eot?#iefix")
+    url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.eot?#iefix")
       format("embedded-opentype"),
     /* IE6-IE8 */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.woff2")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.woff2")
       format("woff2"),
     /* Super Modern Browsers */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.woff")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.woff")
       format("woff"),
     /* Modern Browsers */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.ttf")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.ttf")
       format("truetype"),
     /* Safari, Android, iOS */
-      url("/fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.svg#IBMPlexSans")
+      url("../fonts/ibm-plex-sans-v13-latin-ext_latin_cyrillic-ext_cyrillic-700.svg#IBMPlexSans")
       format("svg"); /* Legacy iOS */
 }
