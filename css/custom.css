@@ -64,6 +64,14 @@ span.textHighlight {
   padding: 0 0.2rem;
 }
 
+div.textHighlight {
+  background-color: #ffd700;
+  padding: 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
 .mainNavigation a.btn {
   width: 360px;
   max-width: 100%;
