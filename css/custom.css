@@ -195,6 +195,13 @@ footer {
   margin-bottom: 0;
 }
 
+.infoBox {
+  padding: 1rem;
+  margin-top: 2rem;
+}
+.infoBox table {
+  text-align: left;
+}
 /* ibm-plex-sans-regular - latin-ext_latin_cyrillic-ext_cyrillic */
 /* ibm-plex-sans-regular - latin-ext_latin_cyrillic-ext_cyrillic */
 @font-face {
